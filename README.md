@@ -1,3 +1,9 @@
+
+# POC
+
+https://github.com/user-attachments/assets/a30bc3a3-b6db-43d4-9539-8465c4469048
+
+
 # LinkedIn People Scraper
 
 A Python-based tool to scrape LinkedIn profiles of people with specific job titles. This tool searches for PEOPLE, not job postings.
