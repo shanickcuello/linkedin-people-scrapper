@@ -1,0 +1,20 @@
+{
+  "searches": [
+    {
+      "job_title": "IT Lead",
+      "location": ""
+    },
+    {
+      "job_title": "Software Engineer",
+      "location": "San Francisco, CA"
+    }
+  ],
+  "max_pages": 20,
+  "headless": false,
+  "debug_mode": false,
+  "delay_min": 4,
+  "delay_max": 8,
+  "max_retries": 4,
+  "username": "YOUR_EMAIL",
+  "password": "YOUR_PASSWORD"
+}
